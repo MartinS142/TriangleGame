@@ -45,6 +45,8 @@ public class TrianglesFirst extends Application
         btn.setStyle("-fx-font: 20 arial;");
         Random rand = new Random();
         
+        Button btn2 = new Button();
+       
         
         
         root.getChildren().add(btn);
